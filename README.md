@@ -1,2 +1,4 @@
-# Fenrir-RPG
-Try to make RPG...
+# 咕咕のRPG
+Compute里面的内容需要放在Resources文件夹下，其中的ComputeShader是在AnimHelper类中加载的。如有需要，可自行修改加载方式。
+Scripts内容为各模块的代码，直接放入项目中即可。
+各模块文档后续会补上。
