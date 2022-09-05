@@ -1,4 +1,6 @@
 # 咕咕のRPG
+github留言可能无法及时回复，有问题可以B站私信。
+
 ### 注：
 
 1. Compute里面的内容需要放在Resources文件夹下，其中的ComputeShader是在AnimHelper类中加载的。如有需要，可自行修改加载方式。
